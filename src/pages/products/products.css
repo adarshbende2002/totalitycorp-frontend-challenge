@@ -1,0 +1,20 @@
+.not-found-container {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .message {
+    font-size: 24px;
+    color: #FF0000; /* Red color for the error message */
+  }
+  
+  .home-link {
+    font-size: 18px;
+    text-decoration: none; /* Remove underline from the link */
+    color: #007BFF; /* Blue color for the link */
+  }
+  
+  .home-link:hover {
+    text-decoration: underline; /* Underline the link on hover */
+  }
+  
