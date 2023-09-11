@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//adarshbende2002.github.io/totalitycorp-frontend-challenge/static/css/main.5633831e.css",
+    "main.js": "/http//adarshbende2002.github.io/totalitycorp-frontend-challenge/static/js/main.0c5ec7b9.js",
+    "static/js/787.af04e08f.chunk.js": "/http//adarshbende2002.github.io/totalitycorp-frontend-challenge/static/js/787.af04e08f.chunk.js",
+    "index.html": "/http//adarshbende2002.github.io/totalitycorp-frontend-challenge/index.html",
+    "main.5633831e.css.map": "/http//adarshbende2002.github.io/totalitycorp-frontend-challenge/static/css/main.5633831e.css.map",
+    "main.0c5ec7b9.js.map": "/http//adarshbende2002.github.io/totalitycorp-frontend-challenge/static/js/main.0c5ec7b9.js.map",
+    "787.af04e08f.chunk.js.map": "/http//adarshbende2002.github.io/totalitycorp-frontend-challenge/static/js/787.af04e08f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5633831e.css",
+    "static/js/main.0c5ec7b9.js"
+  ]
+}
